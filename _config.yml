@@ -2,7 +2,7 @@
 title: Syllogia
 description: >-
   A collaborative platform for knowledge sharing and team collaboration.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/syllogia-team" # the subpath of your site, e.g. /blog
 url: "https://syllogia-team.github.io" # the base hostname & protocol for your site
 
 # Build settings
